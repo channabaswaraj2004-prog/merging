@@ -5,6 +5,8 @@ public class King{
         System.out.println(this.name+" " +this.age);
     }
     public static void main(String[] args){
-        
+        System.out.println("hello wporld");
+        System.out.println("hello wporld");
+        System.out.println("hello wporld");
     }
 }
